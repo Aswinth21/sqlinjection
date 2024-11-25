@@ -1,8 +1,8 @@
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
-### NAME: SUBASH R
-### REG NO: 212223230218
+### NAME: ASWINTH T
+### REG NO: 212222230015
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
